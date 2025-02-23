@@ -1,0 +1,12 @@
+
+train: datasets/defect/train.txt # 118287 images
+val: datasets/defect/val.txt     # 5000 images
+test: datasets/defect/test.txt
+    # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+
+# number of classes
+nc: 1
+
+names: ['mouse']
+
