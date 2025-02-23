@@ -1,7 +1,3 @@
-以下是一个基于上述内容的GitHub项目README示例，适用于描述该研究项目及其代码实现：
-
----
-
 # Enhanced Mouse Pose Estimation through Improved YOLOv7-Pose Model
 
 ## Project Overview
