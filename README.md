@@ -94,12 +94,6 @@ mouse_pose_estimation/
 - **Key Point Detection**: The improved YOLOv7-Pose model achieves an F1 Score of 0.840 and accuracy of 84.1%.
 - **Behavior Classification**: The model achieves an average classification accuracy of 90.22% for all videos, with improvements of 4.32% for day videos, 6.75% for night videos, and 5.86% overall compared to the original YOLOv7-Pose model.
 
-## References
-For more details about the methodology and results, please refer to the original publication:
-- Yang, Y., Zhu, Y., Lu, W., et al. Enhanced Mouse Pose Estimation through Improved YOLOv7-Pose Model for Behavior Analysis. *Applied Sciences* 14(11), 4351 (2024). [DOI: 10.3390/app14114351](https://doi.org/10.3390/app14114351)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 This research is supported by grants from Hubei Hongshan Laboratory [grant numbers 2022hszd024] and Huazhong Agricultural University Scientific & Technological Self-innovation Foundation.
