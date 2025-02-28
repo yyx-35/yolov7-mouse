@@ -19,10 +19,3 @@ The improved model achieves an F1 Score of 0.840 and accuracy of 84.1%, outperfo
 
 ## Acknowledgments
 This research is supported by grants from Hubei Hongshan Laboratory [grant numbers 2022hszd024] and Huazhong Agricultural University Scientific & Technological Self-innovation Foundation.
-
----
-
-### Notes:
-1. Replace `yourusername` with your actual GitHub username.
-2. Ensure that the directory structure and file paths match those described in the README.
-3. Add additional sections or details as needed based on your project requirements.
